@@ -1,6 +1,6 @@
-token=NTA0MjcyMDg2MTUyMzgwNDI2.DrCpeQ.agqpVQd6n2uV-SNsuR05yEnpptg
-owner=454313323660312596
-prefix=O
-game=Type Ohelp
+token=NTA1MDU4OTA0MjA0NjQwMjU5.DrOEWQ.mdyiOc5tCe0oizicEuyQTwKxRug
+owner=420287914149150731
+prefix=3
+game=Type 3help
 stayinchannel=true
 songinstatus=true
